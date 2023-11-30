@@ -1,0 +1,10 @@
+body {
+  background-image: url("https://i.redd.it/q3z1k0zc7umy.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img-fluid{
+  border-radius : 50px;
+  border : 30px;
+ }
